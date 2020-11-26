@@ -1,0 +1,260 @@
+.header-color {
+  font-family: 'Source San Pro';
+  font-style:#606060;
+  font-size: 21px;
+  font-weight:'Bold';
+  background-color:whitesmoke;
+  position: fixed;
+ /*scroll-behavior: hidden;*/
+ }
+
+.banner-text {
+  
+  opacity: .8;
+  width: 70%;
+  margin: auto;
+  border-radius: 5px;
+  
+}
+.banner-text h1 {
+  font-family:'Source Sans Pro';
+  font-size:45px;
+  padding:70px 30px 0px 60px;
+  font-weight: bold;
+  color:#0c59cf;
+  text-align:left;
+
+}
+.banner-text hr {
+  border-top:2px line white;
+  width:85%;
+  margin:auto;
+  padding-right:80px;
+  color:rgb(4, 156, 216);
+}
+.banner-text p {
+  color:#0c59cf;
+  font-size:16px;
+  padding: 0.5em;
+  padding-left: 50px;
+  text-align:left;
+  
+}
+.subtitle {
+  
+  width:80%;
+  height:80%;
+  text-align:center;
+  padding:40px 20px 50px 20px;
+
+  padding-right:1em;
+  color:rgb(4, 156, 216);
+  justify-items:center;
+}
+.subtitle h5 {
+  font-size:21px;
+  text-align:center;
+  color:#606060;
+}
+.subtitle p {
+  font-size:14px;
+  color:#606060;
+  text-align:center;
+}
+
+/*** BecomeaTutor ***/
+.title-text {
+  padding:50px 0px 10px 100px;
+  opacity: .8;
+  width: 700px;
+  margin: auto;
+  border-radius: 10px;
+  
+}
+.title-text h1 {
+  font-family: 'Source Sans Pro';
+  font-size:45px;
+  font-weight: bold;
+  color:#0c59cf;
+  text-align:center;
+
+}
+.title-text p {
+  color:#606060;
+  font-size:16px;
+  padding: 0.5em;
+  text-align:center;
+  font-family: 'Source San Pro';
+}
+
+.steps {
+  
+  width:90%;
+  height:80%;
+  text-align:center;
+  padding:1px 15px 0px 20px;
+
+  padding-right:1em;
+  color:rgb(4, 156, 216);
+  justify-items:center;
+  
+}
+.steps h5 {
+  font-size:21px;
+  text-align:center;
+  color:grey;
+  
+}
+.steps p {
+  font-size:14px;
+  color:grey;
+  text-align:center;
+  
+}
+
+/*** Pricing Plan ***/
+.subject-text {
+  
+  opacity: .8;
+  width: 70%;
+  margin: auto; 
+  border-radius: 10px;
+  
+}
+.subject-text h1 {
+  font-family:'Source Sans Pro';
+  font-size:40px;
+  padding:60px 30px 0px 40px;
+  font-weight: bold;
+  color:#0c59cf;
+  text-align:center;
+
+}
+.subject-text p {
+  color:#606060;
+  font-size:16px;
+  padding: 0.5em;
+  font-family: 'Source San Pro';
+  text-align:center;
+  
+}
+
+.subjectname {
+  
+  width:80%;
+  height:90%;
+  text-align:center;
+  padding:1px 20px 10px 20px;
+  border: 2px solid grey;
+  padding-right:1em;
+  color:#606060;
+  justify-items:center;
+}
+.subjectname h6 {
+  font-size:21px;
+  text-align:center;
+  color:#606060;
+  font-family: 'Lato';
+
+}
+
+
+/*** Testimonails ***/
+.test-level  {
+  padding:50px 70px 10px 20px;
+  opacity: .8;
+  width: 750px;
+  margin: auto;
+  border-radius: 10px;
+
+}
+.test-level h1 {
+  font-family:'Source Sans Pro' ;
+  font-size:40px;
+  font-weight: bold;
+  color:#0c59cf;
+  text-align:center;
+
+}
+
+.test-level p {
+  color:grey;
+  font-size:16px;
+  padding: 0.5em;
+  font-family: 'Lato';
+  text-align:center;
+}
+.stepslevel {
+  width:90%;
+  height:80%;
+  text-align:center;
+  padding:1px 20px 30px 20px;
+  border:1px solid grey;
+  padding-right:1em;
+  justify-items:center;
+  
+}
+.stepslevel p {
+  font-size:14px;
+  color:#606060;
+  text-align:center;
+  
+}
+
+/*** contactus ***/
+.containerbox {
+    width:1000px;
+    position:relative;
+    letter-spacing: 0em;
+    border: 1px solid #606060;
+    align-content:center;
+    padding:40px;
+    left:120px;
+   
+  
+  
+}
+.containerbox .head h1 {
+  color: #0c59cf;
+  font-family: 'Source Sans Pro';
+  text-align:center;
+  font-size:40px;
+ 
+ 
+}
+.containerbox .head p {
+  text-align:center;
+  font-size:15px;
+  font-family:'Lato';
+  color:#606060;
+  
+}
+
+.inputs .button {
+    position:absolute;
+    align-items:center;
+    bottom:0;
+    
+}
+.inputs .exampleForm.ControlTextarea1 {
+   border: 2px grey;
+   width:80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

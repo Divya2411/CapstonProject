@@ -1,0 +1,33 @@
+.containerbox {
+    padding:40px;
+    position:relative;
+    width:1000px;
+    letter-spacing: 0em;
+    left:120px;
+    border:1px solid #606060;
+    align-content:center;
+  }
+  .containerbox .head h1 {
+    color: #0c59cf;
+    font-family: 'Source Sans Pro';
+    text-align:center;
+    font-size:40px;
+   
+  }
+  .containerbox .head p {
+    text-align:center;
+    font-size:15px;
+    font-family:'Lato';
+    color:#606060;
+  }
+  
+  .inputs .button {
+      position:absolute;
+      align-items:center;
+      bottom:0;
+      
+  }
+  .inputs .exampleForm.ControlTextarea1 {
+     border: 2px grey;
+     width:80%;
+  }
